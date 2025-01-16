@@ -31,7 +31,7 @@ public class Animal
         Console.WriteLine("Animal Species");
     }
 
-    #endregion
+    #endregion Access Modifier (access levels)
 
     public virtual void ShowName()
     {
